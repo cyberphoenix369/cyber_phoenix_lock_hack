@@ -6,6 +6,9 @@ Hacklock is a bash based script which is officially termux from this tool in jus
 installation~~~~
 
 git clone https://github.com/cyberphoenix369/cyber_phoenix_lock_hack.git
+
 cd cyber_phoenix_lock_hack
+
 chmod +x *
+
 bash hack.sh
