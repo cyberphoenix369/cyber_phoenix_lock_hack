@@ -12,3 +12,5 @@ cd cyber_phoenix_lock_hack
 chmod +x *
 
 bash hack.sh
+
+subscribe yt channel : https://youtube.com/channel/UCIExxjGdg6T17w3vWbvKGdg
